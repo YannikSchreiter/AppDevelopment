@@ -1,0 +1,10 @@
+main(){
+int zahlengrenze=5;
+  if(zahlengrenze>10){
+    print("Jo");
+  }else{
+    print("Nö");
+  }
+  String ausgabe = zahlengrenze > 10 ? "Jo" : "Nö";
+  print(ausgabe);
+}
