@@ -1,0 +1,8 @@
+main(){
+double limit =0;
+  int i =2;
+  for(limit=0;limit<i;limit+=0.1){
+    print("$limit");
+    
+  }
+}
