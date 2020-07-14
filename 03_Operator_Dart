@@ -1,0 +1,9 @@
+main(){
+  int zahl=0;
+  zahl++;
+  zahl*=2;   
+  print(zahl);
+  zahl--;
+  zahl*=zahl;
+  print(zahl);
+}
