@@ -1,0 +1,10 @@
+main(){
+  String meinName = "Höö";
+  print("$meinName");
+  double a = 3.2;
+  String b = a.toString();
+  print(b);
+  int c = meinName.length;
+  print(c);
+    
+}
